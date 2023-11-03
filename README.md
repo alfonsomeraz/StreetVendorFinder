@@ -25,6 +25,6 @@ Install *requirements.txt*
 ## App Design
 The design above is an initial low-fidelity MVP of the product mission.
 
-![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-03 at 19 45 59](https://github.com/alfonsomeraz/StreetVendorFinder/assets/56334090/bc204ae7-439f-4f48-ac98-22b4f8a63d8b =100x20)
+![](https://github.com/alfonsomeraz/StreetVendorFinder/assets/56334090/bc204ae7-439f-4f48-ac98-22b4f8a63d8b =100x20)
 
 
